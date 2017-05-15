@@ -1,0 +1,27 @@
+p {
+	color: red ;
+}
+h1 {
+	color: #888888;
+	background-color: blue;
+	text-transform:uppercase;
+	margin:20px;
+	padding:40px;
+	border-style:dashed;
+	border-width:5px;
+	border-left-width: 10px;
+    border-right-width: 10px;
+    border-color:green;
+}
+body {
+	font-family:san-serif;
+	font-size:12px;
+}
+#top {
+	background-color:black;
+	padding:20px;
+}
+.intro{
+	color:red;
+	font-weight:bold;
+}
