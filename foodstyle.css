@@ -1,0 +1,34 @@
+p {
+	color: red ;
+}
+h1 {
+	color: #888888;
+	background-color: blue;
+	text-transform:uppercase;
+	margin:20px;
+	padding:40px;
+	border-style:dashed;
+	border-width:5px;
+	border-left-width: 10px;
+    border-right-width: 10px;
+    border-color:green;
+}
+body {
+	font-family:san-serif;
+	font-size:12px;
+	background: white url(https://previews.123rf.com/images/glossygirl21/glossygirl211203/glossygirl21120300034/12888414-plate-fork-and-spoon-background-for-menu-dining-restaurant-and-others-Stock-Vector.jpg) repeat top right;
+}
+#top {
+	background-color:black;
+	padding:20px;
+}
+.intro{
+	color:red;
+	font-weight:bold;
+}
+
+
+.active{
+	background-color:black;
+	padding:20px;
+}
